@@ -1,1 +1,7 @@
-# TP-2-labo
+# Trabajo Practico 2 
+
+# Tecnologias Usadas
+
+## HTML
+
+## CSS
